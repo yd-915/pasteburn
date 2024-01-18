@@ -76,7 +76,7 @@ function Create() {
       <Link href="/">
         <Image
           src="/dis.png"
-          alt="Pasteburn Logo"
+          alt="Disapaste"
           title="Logo, made from
             Icon Fonts, which
             is licensed by CC BY 3.0"
