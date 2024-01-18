@@ -10,9 +10,9 @@ const lightTheme = createTheme(
   {
     colors: {
       borderSelected: "#bb0000",
-      buttonPrimaryFill: "#aa0000",
+      buttonPrimaryFill: "#ff0d0d",
       buttonPrimaryHover: "#bb0000",
-      buttonPrimaryActive: "#dd0000",
+      buttonPrimaryActive: "#ff3c3c",
     },
   }
 );
