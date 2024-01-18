@@ -75,7 +75,7 @@ function Create() {
     <div className="absolute top-[20%] left-1/2 -translate-x-1/2 mx-auto max-w-lg flex flex-col gap-2">
       <Link href="/">
         <Image
-          src="/salamander.png"
+          src="/dis.png"
           alt="Pasteburn Logo"
           title="Logo, made from
             Icon Fonts, which
